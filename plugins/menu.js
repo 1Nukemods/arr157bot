@@ -47,13 +47,10 @@ Jangan Lupa Scan QR
 > return m 'javascript eval' + m.sender
 
 =======*「 INFO 」*=======
-  卍BRUXINHO MODS KARAYᬊ᭄
-=========================
-YouTube: 
-https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
+  NUKE MODS BOTV3
 
 CRIADOR:
-*Wa.me/+56945020187*
+*Wa.me/+5519991718371*
 ==================
 `.trim(), m)
 }
