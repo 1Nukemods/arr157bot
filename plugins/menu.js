@@ -1,7 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
-NUKE BOT
-Rec: ~Drawl Nag
+◀️*NUKE BOT*▶️
+NÍVEL: CARREGANDO 🔋
 
 ➸ Prefix:  *「 ${_p} 」*
 ➸ Status: *「 Online 」*
