@@ -47,7 +47,7 @@ Jangan Lupa Scan QR
 > return m 'javascript eval' + m.sender
 
 =======*「 CRÉDITOS  」*=======
-     ↱  NUKE MODS BOTV3 ↰
+↱  NUKE MODS BOTV3 ↰
 =================================
 CRIADOR:
 *Wa.me/+5519991718371* 
